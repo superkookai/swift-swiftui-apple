@@ -23,3 +23,6 @@
 
 **DocQuery - Foundation models with handle Transferable files (pdf,jpeg,png,text) drop to View then convert to String to use in AI**
 [DocQuery](https://github.com/superkookai/DocQuery)
+
+**Screenable - macOS app Document app with Canvas - handle drop files and handle file import**
+[Screenable](https://github.com/superkookai/ScreenableA)
