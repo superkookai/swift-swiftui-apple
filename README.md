@@ -20,3 +20,6 @@
 
 **FiveByFive - SwiftUI Word Game with 5x5 Grid, DragGesture, coordinateSpace, fixSize, etc.**
 [FiveByFive](https://github.com/superkookai/FiveByFive)
+
+**DocQuery - Foundation models with handle Transferable files (pdf,jpeg,png,text) drop to View then convert to String to use in AI**
+[DocQuery](https://github.com/superkookai/DocQuery)
