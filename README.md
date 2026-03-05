@@ -26,3 +26,12 @@
 
 **Screenable - macOS app Document app with Canvas - handle drop files and handle file import**
 [Screenable](https://github.com/superkookai/ScreenableA)
+
+**NeverForget - SwiftUI + EventKit and AlarmKit**
+[NeverForget](https://github.com/superkookai/NeverForget)
+
+**PiggySpending - Spending Tracking App made by me - SwiftUI/SwiftData/Notification/GeminiAI/Custom alert/Custom fullScreenCover/Global Alert/Custom Chart/Chart frameworks/etc.**
+[PiggySpending](https://github.com/superkookai/PiggySpending)
+
+**Piggy - Money Tracker App made by me - SwiftUI with Firebase(Auth,Firestore,Storage)/Notification/Real time Chat/etc. (Made before PiggySpending)**
+[Piggy](https://github.com/superkookai/Piggy)
