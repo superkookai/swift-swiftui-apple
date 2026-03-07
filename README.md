@@ -35,3 +35,6 @@
 
 **Piggy - Money Tracker App made by me - SwiftUI with Firebase(Auth,Firestore,Storage)/Notification/Real time Chat/etc. (Made before PiggySpending)**
 [Piggy](https://github.com/superkookai/Piggy)
+
+**BlossomMovie - From Freecodecamp - SwiftUI with MovieAPI, NavigationPath, YouTubePlayerKit, Search Youtube with Google API**
+[BlossomMovie](https://github.com/superkookai/BlossomMovie)
