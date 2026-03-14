@@ -39,5 +39,5 @@
 **BlossomMovie - From Freecodecamp - SwiftUI with MovieAPI, NavigationPath, YouTubePlayerKit, Search Youtube with Google API**
 [BlossomMovie](https://github.com/superkookai/BlossomMovie)
 
-**MockingBird - HWS+ macOS Foundation Models with DynamicGenerationSchema and Batch session, with Copy to Clipboard, Slider, Picker, Menu and more.**
+**MockingBird - HWS+ macOS Foundation Models with DynamicGenerationSchema and Batch session, with Copy to Clipboard, Slider, Picker, Menu and more. And Vibe Coding with Codex on Global Custom Alert**
 [MockingBird](https://github.com/superkookai/MockingBird)
