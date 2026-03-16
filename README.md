@@ -41,3 +41,6 @@
 
 - **MockingBird** - HWS+ macOS Foundation Models with DynamicGenerationSchema and Batch session, with Copy to Clipboard, Slider, Picker, Menu and more. And Vibe Coding with Codex on Global Custom Alert
 [MockingBird](https://github.com/superkookai/MockingBird)
+
+- **AIPlaybookMe** - This is trying AI from Swift AI Playbook of Pual Hudson
+[AIPlaybookMe](https://github.com/superkookai/AIPlaybookMe)
