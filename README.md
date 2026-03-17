@@ -44,3 +44,6 @@
 
 - **AIPlaybookMe** - This is trying AI from Swift AI Playbook of Pual Hudson
 [AIPlaybookMe](https://github.com/superkookai/AIPlaybookMe)
+
+- **Framed** - HWS+ Photos Album with SwiftData - It show save image data to file/keep file path only to SwiftData and also show to delete File data saved, how to resize full image data for thumbnail, navigationTile with binding, NavigationStack with path.
+[Framed](https://github.com/superkookai/Framed)
