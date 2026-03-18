@@ -47,3 +47,9 @@
 
 - **Framed** - HWS+ Photos Album with SwiftData - It show save image data to file/keep file path only to SwiftData and also show to delete File data saved, how to resize full image data for thumbnail, navigationTile with binding, NavigationStack with path.
 [Framed](https://github.com/superkookai/Framed)
+
+- **HotCoffee** - Showing how to do Global store (@Obsevable inject to Environment/Environment key), using HTTPClient and MockHTTPClient by using Protocol
+[HotCoffee](https://github.com/superkookai/HotCoffeeMV-GlobalStore)
+
+- **MovieApp** - Using Closures in Child view to pass actions from Parent view
+[MovieApp](https://github.com/superkookai/MoviesApp)
