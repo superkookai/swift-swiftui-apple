@@ -59,3 +59,10 @@
 
 - **GlobalErrorHandling** - Set ShowErrorAction to EnvironmentKey then make it show error globally via overlay or sheet.
 [GlobalErrorHandling](https://github.com/superkookai/GlobalErrorHandling)
+
+- **Navigation in SwiftUI**
+1. Basic Navigation [LearnNavigation-Basic](https://github.com/superkookai/LearnNavigation-Basic)
+2. Programmatic Navigation with Routing (enum) [LearnNavigation-enum](https://github.com/superkookai/LearnNavigation-enum)
+3. Programmatic Navigation with Routing (Global Environment) [LearnNavigation-global-env](https://github.com/superkookai/LearnNavigation-global-env)
+4. Programmatic Navigation with Routing (EnvironmentKey) [LearnNavigation-global-env-key](https://github.com/superkookai/LearnNavigation-global-env-key)
+5. Programmatic TabView and Navigation with Routing [LearnNavigation-tab-nav](https://github.com/superkookai/LearnNavigation-tab-nav)
