@@ -53,3 +53,6 @@
 
 - **MovieApp** - Using Closures in Child view to pass actions from Parent view
 [MovieApp](https://github.com/superkookai/MoviesApp)
+
+- **high-performance-memoization** - Cached result of high computation function in Swift
+[high-performance-memoization](https://github.com/superkookai/high-performance-memoization)
