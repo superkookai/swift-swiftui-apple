@@ -56,3 +56,6 @@
 
 - **high-performance-memoization** - Cached result of high computation function in Swift
 [high-performance-memoization](https://github.com/superkookai/high-performance-memoization)
+
+- **GlobalErrorHandling** - Set ShowErrorAction to EnvironmentKey then make it show error globally via overlay or sheet.
+[GlobalErrorHandling](https://github.com/superkookai/GlobalErrorHandling)
