@@ -68,3 +68,4 @@
 5. Programmatic TabView and Navigation with Routing [LearnNavigation-tab-nav](https://github.com/superkookai/LearnNavigation-tab-nav)
 
 - **ShadowSteps** - HWS+ HealthKit with watchOS [ShadowSteps](https://github.com/superkookai/ShadowSteps)
+- **Budget** - XCT test with SwiftData, also show how to add function/computed property with your rules to SwiftData model itself [Budget](https://github.com/superkookai/Budget)
