@@ -71,3 +71,4 @@
 - **Budget** - XCT test with SwiftData, also show how to add function/computed property with your rules to SwiftData model itself [Budget](https://github.com/superkookai/Budget)
 - **LoanApp** - XCT test with Service/MockService and Form logic test [LoanApp](https://github.com/superkookai/LoanApp)
 - **GridBrowser** - HWS+ build Grid browser with WebKit, Grid/GridRow, some toolbar with glass effect [GridBrowser](https://github.com/superkookai/GridBrowser)
+- **Honeymoon** - Deck of cards with Gesture/Animation/Transition/Sound/Haptics/ViewModifier [Honeymoon](https://github.com/superkookai/Honeymoon)
