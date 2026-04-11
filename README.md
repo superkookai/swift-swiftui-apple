@@ -72,3 +72,4 @@
 - **LoanApp** - XCT test with Service/MockService and Form logic test [LoanApp](https://github.com/superkookai/LoanApp)
 - **GridBrowser** - HWS+ build Grid browser with WebKit, Grid/GridRow, some toolbar with glass effect [GridBrowser](https://github.com/superkookai/GridBrowser)
 - **Honeymoon** - Deck of cards with Gesture/Animation/Transition/Sound/Haptics/ViewModifier [Honeymoon](https://github.com/superkookai/Honeymoon)
+- **NetworkExample** - HWS NetworkMonitor and URLSession configulation (can set requestCachePolicy and others) [NetworkExample](https://github.com/superkookai/NetworkExample)
