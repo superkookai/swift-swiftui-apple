@@ -73,3 +73,10 @@
 - **GridBrowser** - HWS+ build Grid browser with WebKit, Grid/GridRow, some toolbar with glass effect [GridBrowser](https://github.com/superkookai/GridBrowser)
 - **Honeymoon** - Deck of cards with Gesture/Animation/Transition/Sound/Haptics/ViewModifier [Honeymoon](https://github.com/superkookai/Honeymoon)
 - **NetworkExample** - HWS NetworkMonitor and URLSession configulation (can set requestCachePolicy and others) [NetworkExample](https://github.com/superkookai/NetworkExample)
+- **UIKitWithSwiftUI**
+1. [UIKit with SwiftUI using UIHostingController](https://github.com/superkookai/UIKitwithSwiftUI)
+2. [UIKIt with SwiftUI using UIHostingController with Observable object to pass value](https://github.com/superkookai/UIKitwithSwiftUI-pass-value)
+3. [Embed UIKit to SwiftUI with UIViewRepresentable](https://github.com/superkookai/UIKitwithSwiftUI-uikit-to-swiftui)
+4. [UIKit with delegate in SwiftUI using UIViewRepresentable](https://github.com/superkookai/UIKitwithSwiftUI-uikit-delegate)
+5. [SwiftUI view in UIKit UITableViewCell using UIHostingConfiguration](https://github.com/superkookai/UIKitwithSwiftUI-Swiftui-UITableViewCell)
+6. [UIKIt Preview using UIViewControllerRepresentable](https://github.com/superkookai/UIKitwithSwiftUI-uikit-preview)
