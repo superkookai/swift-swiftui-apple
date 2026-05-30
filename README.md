@@ -68,11 +68,17 @@
 5. Programmatic TabView and Navigation with Routing [LearnNavigation-tab-nav](https://github.com/superkookai/LearnNavigation-tab-nav)
 
 - **ShadowSteps** - HWS+ HealthKit with watchOS [ShadowSteps](https://github.com/superkookai/ShadowSteps)
+
 - **Budget** - XCT test with SwiftData, also show how to add function/computed property with your rules to SwiftData model itself [Budget](https://github.com/superkookai/Budget)
+
 - **LoanApp** - XCT test with Service/MockService and Form logic test [LoanApp](https://github.com/superkookai/LoanApp)
+
 - **GridBrowser** - HWS+ build Grid browser with WebKit, Grid/GridRow, some toolbar with glass effect [GridBrowser](https://github.com/superkookai/GridBrowser)
+
 - **Honeymoon** - Deck of cards with Gesture/Animation/Transition/Sound/Haptics/ViewModifier [Honeymoon](https://github.com/superkookai/Honeymoon)
+
 - **NetworkExample** - HWS NetworkMonitor and URLSession configulation (can set requestCachePolicy and others) [NetworkExample](https://github.com/superkookai/NetworkExample)
+
 - **UIKitWithSwiftUI**
 1. [UIKit with SwiftUI using UIHostingController](https://github.com/superkookai/UIKitwithSwiftUI)
 2. [UIKIt with SwiftUI using UIHostingController with Observable object to pass value](https://github.com/superkookai/UIKitwithSwiftUI-pass-value)
@@ -80,7 +86,9 @@
 4. [UIKit with delegate in SwiftUI using UIViewRepresentable](https://github.com/superkookai/UIKitwithSwiftUI-uikit-delegate)
 5. [SwiftUI view in UIKit UITableViewCell using UIHostingConfiguration](https://github.com/superkookai/UIKitwithSwiftUI-Swiftui-UITableViewCell)
 6. [UIKIt Preview using UIViewControllerRepresentable](https://github.com/superkookai/UIKitwithSwiftUI-uikit-preview)
+
 - **NetworkingProject** - Networking hiding complexity with Protocol and Struct (Endpoint, APIClient,Service,ViewModel), pagination(load more), search, sort, structure task [NetworkingProject](https://github.com/superkookai/NetworkingProject) 
 
 # Python FastAPI and AI
+
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
