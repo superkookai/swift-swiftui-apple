@@ -1,4 +1,5 @@
 # Learning Swift/SwiftUI Projects from HWS and others
+# Python FastAPI and AI
 
 - **SnapCards** - Flash cards app with Foundation Models
 [SnapCards](https://github.com/superkookai/SnapCards)
