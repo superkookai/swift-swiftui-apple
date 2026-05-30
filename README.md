@@ -80,5 +80,5 @@
 4. [UIKit with delegate in SwiftUI using UIViewRepresentable](https://github.com/superkookai/UIKitwithSwiftUI-uikit-delegate)
 5. [SwiftUI view in UIKit UITableViewCell using UIHostingConfiguration](https://github.com/superkookai/UIKitwithSwiftUI-Swiftui-UITableViewCell)
 6. [UIKIt Preview using UIViewControllerRepresentable](https://github.com/superkookai/UIKitwithSwiftUI-uikit-preview)
-- **NetworkingProject** - Networking hiding complexity with Protocol and Struct (Endpoint, APIClient,Service,ViewModel) [NetworkingProject](https://github.com/superkookai/NetworkingProject) 
+- **NetworkingProject** - Networking hiding complexity with Protocol and Struct (Endpoint, APIClient,Service,ViewModel), pagination(load more), search, sort, structure task [NetworkingProject](https://github.com/superkookai/NetworkingProject) 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
