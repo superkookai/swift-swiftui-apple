@@ -1,5 +1,4 @@
 # Learning Swift/SwiftUI Projects from HWS and others
-# Python FastAPI and AI
 
 - **SnapCards** - Flash cards app with Foundation Models
 [SnapCards](https://github.com/superkookai/SnapCards)
@@ -82,4 +81,6 @@
 5. [SwiftUI view in UIKit UITableViewCell using UIHostingConfiguration](https://github.com/superkookai/UIKitwithSwiftUI-Swiftui-UITableViewCell)
 6. [UIKIt Preview using UIViewControllerRepresentable](https://github.com/superkookai/UIKitwithSwiftUI-uikit-preview)
 - **NetworkingProject** - Networking hiding complexity with Protocol and Struct (Endpoint, APIClient,Service,ViewModel), pagination(load more), search, sort, structure task [NetworkingProject](https://github.com/superkookai/NetworkingProject) 
+
+# Python FastAPI and AI
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
