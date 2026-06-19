@@ -91,6 +91,11 @@
 
 - **Design4u** - fetch data, list, safeAreaInset, animation, AnyLayout, matchGeometryEffect, stechy image, searchable with suggestedTokens, navigation with path, sheet, performance [Design4u](https://github.com/superkookai/Design4u/tree/main)
 
+- **Dreamcatcher** - UnwrapLive2025 - AppIntent, AppShortcutProvider, AppEntity, Siri, CoreSpotlight, AppDependencyManager, ImagePlayground (sheet) [Dreamcatcher](https://github.com/superkookai/Dreamcatcher)
+
+- **PlaygroundSandbox** - ImagePlayground (sheet) and ImageCreator [PlaygroundSandbox](https://github.com/superkookai/PlaygroundSandbox)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
+
