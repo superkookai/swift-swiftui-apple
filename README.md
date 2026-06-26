@@ -95,6 +95,9 @@
 
 - **PlaygroundSandbox** - ImagePlayground (sheet) and ImageCreator [PlaygroundSandbox](https://github.com/superkookai/PlaygroundSandbox)
 
+- **SFSymbol** - Working with SFSymbol\
+  [SFSymbolsNew26](https://github.com/superkookai/SFSymbolsNew26) and [SFSymbolGuide](https://github.com/superkookai/SFSymbolGuide)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
