@@ -98,6 +98,8 @@
 - **SFSymbol** - Working with SFSymbol
   [SFSymbolsNew26](https://github.com/superkookai/SFSymbolsNew26) and [SFSymbolGuide](https://github.com/superkookai/SFSymbolGuide)
 
+- **Make the most of Foundation** - Date/Time, Measurement, UserDefaults/AppGroup/iCloud, PersonNameComponents (MakeTheMostOfFoundation)[https://github.com/superkookai/MakeTheMostOfFoundation]
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
