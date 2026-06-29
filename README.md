@@ -100,6 +100,8 @@
 
 - **Make the most of Foundation** - Date/Time, Measurement, UserDefaults/AppGroup/iCloud, PersonNameComponents [MakeTheMostOfFoundation](https://github.com/superkookai/MakeTheMostOfFoundation)
 
+- **PracticalMacros** - Create FreeStandingMacro and AttachedMacro, adding by Local dependency/Github repo dependency [PracticalMacros](https://github.com/superkookai/PracticalMacros) 
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
