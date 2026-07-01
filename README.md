@@ -103,13 +103,13 @@
 - **PracticalMacros** - Create FreeStandingMacro and AttachedMacro, adding by Local dependency/Github repo dependency [PracticalMacros](https://github.com/superkookai/PracticalMacros)
 
 - **IntermediateSwiftUI** [IntermediateSwiftUI](https://github.com/superkookai/IntermediateSwiftUI)
-  1. ButtonStyle - many tricks with Gradient/Overlay/Stroke/StrokeBorder/Opacity
-  2. ButtonStyle with Animation - Using Protocol (Now can use Property wrapper inside ButtonStyle)
-  3. PrimitiveButtonStyle - Can control looks/feels like ButtonStyle with full control on action via configuration.trigger()
-  4. ToggleStyle with/without Animation
-  5. ProgressViewStyle with/without Animation
-  6. LabelStyle with/without Animation
-  7. Custom view with HorizontalSizeClass - Compact -> TabView, Regular -> NavigationSplitView
+1. ButtonStyle - many tricks with Gradient/Overlay/Stroke/StrokeBorder/Opacity
+2. ButtonStyle with Animation - Using Protocol (Now can use Property wrapper inside ButtonStyle)
+3. PrimitiveButtonStyle - Can control looks/feels like ButtonStyle with full control on action via configuration.trigger()
+4. ToggleStyle with/without Animation
+5. ProgressViewStyle with/without Animation
+6. LabelStyle with/without Animation
+7. Custom view with HorizontalSizeClass - Compact -> TabView, Regular -> NavigationSplitView
 
 # Python FastAPI and AI
 
