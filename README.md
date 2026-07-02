@@ -110,6 +110,7 @@
 5. ProgressViewStyle with/without Animation
 6. LabelStyle with/without Animation
 7. Custom view with HorizontalSizeClass - Compact -> TabView, Regular -> NavigationSplitView
+8. alert,confirmationDialog,contextMenu,Menu
 
 # Python FastAPI and AI
 
