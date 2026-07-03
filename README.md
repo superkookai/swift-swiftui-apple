@@ -112,6 +112,15 @@
 7. Custom view with HorizontalSizeClass - Compact -> TabView, Regular -> NavigationSplitView
 8. alert,confirmationDialog,contextMenu,Menu
 
+- **CreatingPropertyWrapper** [CreatingPropertyWrapper](https://github.com/superkookai/CreatingPropertyWrapper) - using @propertyWrapper and DynamicProperty
+  
+- **PerformanceSandbox** [PerformanceSandbox](https://github.com/superkookai/PerformanceSandbox)
+1. Debouncer any types with Combine/ObservableObject (can do Binding)
+2. DebouncedObservedObject - Debouncing ObservableObject with Combine and using @propertyWrapper @dynamicMemberLookup for clean code on call site
+3. SwiftUI Performace of ObservableObject using EnvironmentObject/EnvironmentKey, no @StateObject
+4. SwiftUI Performace of @Observable object using Environment (same with using EnvironmentKey)
+5. LazySequence on Array - which some operations, such as map and filter, are implemented lazily
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
