@@ -121,6 +121,13 @@
 4. SwiftUI Performace of @Observable object using Environment (same with using EnvironmentKey)
 5. LazySequence on Array - which some operations, such as map and filter, are implemented lazily
 
+- **NetworkingSandbox** [NetworkingSandbox](https://github.com/superkookai/NetworkingSandbox)
+1. Endpoint, HTTPMethod, HTTPBody, Request Headers dictionary, Generic Type Decoding
+2. JSONSerialization with KeyPath
+3. Fetch with Attempts/Retry delay (using Recursive calling)
+4. Fetch with Default value if failed
+5. AppEnvironment - setting up for Testing/Production, baseURL, URLSession configuration
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
