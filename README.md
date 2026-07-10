@@ -15,8 +15,8 @@
 - **LesserKnownSwiftUI** - Compositing Group, Drawing Group, How SwiftUI view create behind the scene
 [LesserKnownSwiftUI](https://github.com/superkookai/LesserKnownSwiftUI)
 
-- **Cooking up Network Manager** - Using NetworkManager by Generic and Singleton
-[NetworkManagerDemo-Part1](https://github.com/superkookai/NetworkManagerDemo-Part1)
+- **Cooking up Network Manager** - Using NetworkManager with Endpoint, HTTPMethod, Custom URLRequest (with Headers, Encoded Body, GET/POST/PUT/DELETE) and Decoding return Data with Generic type, and custom Error
+[RequestNetworkManager](https://github.com/superkookai/RequestNetworkManager-StarterProject)
 
 - **FiveByFive** - SwiftUI Word Game with 5x5 Grid, DragGesture, coordinateSpace, fixSize, etc.
 [FiveByFive](https://github.com/superkookai/FiveByFive)
