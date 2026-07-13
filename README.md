@@ -130,6 +130,8 @@
 
 - **KNetworking** Swift Package Library for Networking with REST API Using Endpoint, URLRequest, URLSession, Generic, Decoding/Encoding, GET/POST/PUT/DELETE [KNetworking](https://github.com/superkookai/KNetworking)
 
+- **HorizontalScrollCalendar** [HorizontalScrollCalendar](https://github.com/superkookai/HorizontalScrollCalendar)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
