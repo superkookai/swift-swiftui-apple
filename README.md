@@ -132,6 +132,8 @@
 
 - **HorizontalScrollCalendar** [HorizontalScrollCalendar](https://github.com/superkookai/HorizontalScrollCalendar)
 
+- **SearchablePlus** - searchable,tokens,searchSuggestions,searchCompletion,searchScopes,searchToolbarBehavior,matches function in Model,Dictionary(grouping:by:) [SearchablePlus](https://github.com/superkookai/SearchablePlusDemo)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
