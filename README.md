@@ -134,6 +134,12 @@
 
 - **SearchablePlus** - searchable,tokens,searchSuggestions,searchCompletion,searchScopes,searchToolbarBehavior,matches function in Model,Dictionary(grouping:by:) [SearchablePlus](https://github.com/superkookai/SearchablePlusDemo)
 
+- **NetworkMonitor** [NetworkMonitor](https://github.com/superkookai/NetworkReachabilityDemo)
+
+- **LiveScribe** Using Swift Markdown package to convert markdown to HTML [LiveScribe](https://github.com/superkookai/LiveScribe)
+
+- **Theremix** AudioKit, Gesture, Canvas to create Theremin [Theremix](https://github.com/superkookai/Theremix)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
