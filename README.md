@@ -140,6 +140,8 @@
 
 - **Theremix** AudioKit, Gesture, Canvas to create Theremin [Theremix](https://github.com/superkookai/Theremix)
 
+- **SpriteView** HWS - SpriteView add SpriteKit scence in SwiftUI [SpriteViewInIOS](https://github.com/superkookai/SpriteViewInIOS)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
