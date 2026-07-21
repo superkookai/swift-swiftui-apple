@@ -142,6 +142,8 @@
 
 - **SpriteView** HWS - SpriteView add SpriteKit scence in SwiftUI [SpriteViewInIOS](https://github.com/superkookai/SpriteViewInIOS)
 
+- **PocketHocky** HWS+ Learn SpriteKit a lot [PocketHocky](https://github.com/superkookai/PocketHocky)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
