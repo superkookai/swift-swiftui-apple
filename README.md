@@ -146,6 +146,11 @@
 
 - **QRMe** HWS+ Create QR code image and get/set properties [access(keyPath:) and withMutation(keyPath:)] inside @Obsevable class [QRMe](https://github.com/superkookai/QRMe)
 
+- **DesignPatterns** HWS+ Design Patterns [DesignPatterns](https://github.com/superkookai/DesignPatterns)
+1. extension
+2. Enumuration/Iterator
+3. KeyPath, Key-Value-Observer (UIKit/AppKit), Using KeyPath to make Identifiable
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
