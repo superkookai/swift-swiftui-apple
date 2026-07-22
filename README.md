@@ -144,6 +144,8 @@
 
 - **PocketHocky** HWS+ Learn SpriteKit a lot [PocketHocky](https://github.com/superkookai/PocketHocky)
 
+- **QRMe** HWS+ Create QR code image [QRMe](https://github.com/superkookai/QRMe)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
