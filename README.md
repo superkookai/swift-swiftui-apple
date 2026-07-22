@@ -144,7 +144,7 @@
 
 - **PocketHocky** HWS+ Learn SpriteKit a lot [PocketHocky](https://github.com/superkookai/PocketHocky)
 
-- **QRMe** HWS+ Create QR code image [QRMe](https://github.com/superkookai/QRMe)
+- **QRMe** HWS+ Create QR code image and get/set properties [access(keyPath:) and withMutation(keyPath:)] inside @Obsevable class [QRMe](https://github.com/superkookai/QRMe)
 
 # Python FastAPI and AI
 
