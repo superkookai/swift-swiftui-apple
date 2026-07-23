@@ -155,6 +155,8 @@
 
 - **SmartBreakPoints** HWS+ Talking about break points for debugging in Xcode [SmartBreakPoints](https://github.com/superkookai/SmarterBreakPoints)
 
+- **CanvasTechniques** HWS+ Canvas - Layers, Attach custom symbols, Multiple contexts, Multiple filters, with TimelineView, Managing environment, Pre-resolved graphics, Hatch back to CoreGraphics. [CanvasTechniques](https://github.com/superkookai/CanvasTechniques)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
