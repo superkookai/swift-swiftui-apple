@@ -151,6 +151,7 @@
 2. Enumuration/Iterator
 3. KeyPath, Key-Value-Observer (UIKit/AppKit), Using KeyPath to make Identifiable
 4. NotificationCenter - addObserver, post, synchronous by default, asynchronous using NotificationQueue, add data with UserInfo/Object, filter sender with object
+5. Protocol and Protocol extension
 
 # Python FastAPI and AI
 
