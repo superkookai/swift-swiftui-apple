@@ -153,6 +153,8 @@
 4. NotificationCenter - addObserver, post, synchronous by default, asynchronous using NotificationQueue, add data with UserInfo/Object, filter sender with object
 5. Protocol and Protocol extension
 
+- **SmartBreakPoints** HWS+ Talking about break points for debugging in Xcode [SmartBreakPoints](https://github.com/superkookai/SmarterBreakPoints)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
