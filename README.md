@@ -159,6 +159,8 @@
 
 - **Fireworks** HWS+ Timeline+Canvas+ParticleSystem [Fireworks](https://github.com/superkookai/Fireworks)
 
+- **AutoTranslate** HWS+ Translation framework and export to .xcstrings [AutoTranslate](https://github.com/superkookai/AutoTranslate)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
