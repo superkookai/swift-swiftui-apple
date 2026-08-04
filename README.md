@@ -161,6 +161,8 @@
 
 - **AutoTranslate** HWS+ Translation framework and export to .xcstrings [AutoTranslate](https://github.com/superkookai/AutoTranslate)
 
+- **SpaceshipOperator** HWS+ Swift custom operator with ComparisonResult enum [SpaceshipOperator](https://github.com/superkookai/SpaceShipOperator)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
