@@ -163,6 +163,13 @@
 
 - **SpaceshipOperator** HWS+ Swift custom operator with ComparisonResult enum [SpaceshipOperator](https://github.com/superkookai/SpaceShipOperator)
 
+- **Quartet** HWS+ Imitate Apple News game [Quartet](https://github.com/superkookai/Quartet)
+1. Decode [[String]]
+2. String(contentOf:) read text file to String
+3. Use .hidden to be a placeholder space for the view
+4. Use background Rectangle and offset(y:) to create 3D like view
+5. Use ZStack to make view sliding transition
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
