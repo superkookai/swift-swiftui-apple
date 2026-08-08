@@ -170,6 +170,8 @@
 4. Use background Rectangle and offset(y:) to create 3D like view
 5. Use ZStack to make view sliding transition
 
+- **Trixel** HWS+ Set Game Imitate [Trixel](https://github.com/superkookai/Trixel) => LazyVGrid, containerRelativeFrame, transition, game algorithm (eg. Array, Set, Array functions), add .id to Button make transition smoothly
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
