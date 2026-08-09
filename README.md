@@ -172,6 +172,8 @@
 
 - **Trixel** HWS+ Set Game Imitate [Trixel](https://github.com/superkookai/Trixel) => LazyVGrid, containerRelativeFrame, transition, game algorithm (eg. Array, Set, Array functions), add .id to Button make transition smoothly
 
+- **AnimationExplorer** HWS+ Imitate TimingCurve website [AnimationExplorer](https://github.com/superkookai/AnimationExplorer) => Swift Charts, UnitCurve.bezier, @ChartContentBuilder, overlay is the same size the view it use, GeometryReader, Alignment, scrollBounceBehavior(.basedOnSize)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
