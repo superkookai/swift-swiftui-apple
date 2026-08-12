@@ -174,6 +174,8 @@
 
 - **AnimationExplorer** HWS+ Imitate TimingCurve website [AnimationExplorer](https://github.com/superkookai/AnimationExplorer) => Swift Charts, UnitCurve.bezier, @ChartContentBuilder, series, overlay is the same size the view it use, GeometryReader, Alignment, scrollBounceBehavior(.basedOnSize)
 
+- **ConcurrencyLessons** HWS+ Level 5 Concurrency [ConcurrencyLessons](https://github.com/superkookai/ConcurrencyLessons)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
