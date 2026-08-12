@@ -176,6 +176,8 @@
 
 - **ConcurrencyLessons** HWS+ Level 5 Concurrency [ConcurrencyLessons](https://github.com/superkookai/ConcurrencyLessons)
 
+- **URLWatcher** URLWatcher with AsyncSequence/AsyncIteratorProtocol (TransactionAPI is FastAPI) [TryTransactionAPICombine](https://github.com/superkookai/TryTransactionAPICombine) 
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
