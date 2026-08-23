@@ -176,7 +176,9 @@
 
 - **ConcurrencyLessons** HWS+ Level 5 Concurrency [ConcurrencyLessons](https://github.com/superkookai/ConcurrencyLessons)
 
-- **URLWatcher** URLWatcher with AsyncSequence/AsyncIteratorProtocol (TransactionAPI is FastAPI) [TryTransactionAPICombine](https://github.com/superkookai/TryTransactionAPICombine) 
+- **URLWatcher** URLWatcher with AsyncSequence/AsyncIteratorProtocol (TransactionAPI is FastAPI) [TryTransactionAPICombine](https://github.com/superkookai/TryTransactionAPICombine)
+
+- **ScrollSampler** scrollTransition modifier explain and @Sendable transition closure cannot capture MainActor-isolated in the closure need to do some work around, because @State cannot Sendable to the closure. (See ChatGPT pin) [ScrollSample](https://github.com/superkookai/ScrollSampler)
 
 # Python FastAPI and AI
 
