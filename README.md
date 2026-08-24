@@ -178,7 +178,7 @@
 
 - **URLWatcher** URLWatcher with AsyncSequence/AsyncIteratorProtocol (TransactionAPI is FastAPI) [TryTransactionAPICombine](https://github.com/superkookai/TryTransactionAPICombine)
 
-- **ScrollSampler** scrollTransition modifier explain and @Sendable transition closure cannot capture MainActor-isolated (it is non isolated) in the closure need to do some work around, because @State cannot Sendable to the closure. (See ChatGPT pin) And using `KeyPath` and `func callAsFunction` [ScrollSample](https://github.com/superkookai/ScrollSampler)
+- **ScrollSampler** `scrollTransition modifier` explain and `@Sendable transition closure` cannot capture MainActor-isolated (it is non isolated) in the closure need to do some work around, because @State cannot Sendable to the closure. (See ChatGPT pin) And using `KeyPath` and `func callAsFunction` [ScrollSample](https://github.com/superkookai/ScrollSampler)
 
 # Python FastAPI and AI
 
