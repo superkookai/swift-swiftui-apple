@@ -180,6 +180,8 @@
 
 - **ScrollSampler** `scrollTransition modifier` explain and `@Sendable transition closure` cannot capture MainActor-isolated (it is non isolated) in the closure need to do some work around, because @State cannot Sendable to the closure. (See ChatGPT pin) And using `KeyPath` and `func callAsFunction` [ScrollSample](https://github.com/superkookai/ScrollSampler)
 
+- **Wanted** HWS+ `ImageRenderer`, `render.scale`, `frame modifier` with large image, `custom font`, `tracking`, `shadow` white color, `PhotosPicker`, `listRowInsets(EdgeInsets())`, `listSectionSpacing(.compact)`, `scrollDismissesKeyboard(.interactively)`, `onChange(of:)` array, `ShareLink`, `SharePreview`, `Privacy - Photo Library Additions Usage Description` [Wanted](https://github.com/superkookai/Wanted)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
