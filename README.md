@@ -182,6 +182,8 @@
 
 - **Wanted** HWS+ `ImageRenderer`, `render.scale`, `frame modifier` with large image, `custom font`, `tracking`, `shadow` white color, `PhotosPicker`, `listRowInsets(EdgeInsets())`, `listSectionSpacing(.compact)`, `scrollDismissesKeyboard(.interactively)`, `onChange(of:)` array, `ShareLink`, `SharePreview`, `Privacy - Photo Library Additions Usage Description` [Wanted](https://github.com/superkookai/Wanted)
 
+- **PhotoFinish** HWS+ `LazyVGrid`,`DragGesture`,`Algorithm`,`PhotosPicker`,`PhotosPickerItem+Data+UIImage+Image`,`UIImage>CGImage>cropping(to:)`,`NavigationLink`,`navigationDestionation(for:destination:)` [PhotoFinish](https://github.com/superkookai/PhotoFinish)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
