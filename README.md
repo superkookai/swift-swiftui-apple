@@ -184,6 +184,8 @@
 
 - **PhotoFinish** HWS+ `LazyVGrid`,`DragGesture`,`Algorithm`,`PhotosPicker`,`PhotosPickerItem+Data+UIImage+Image`,`UIImage>CGImage>cropping(to:)`,`NavigationLink`,`navigationDestionation(for:destination:)`,`max`,`min`,`clamped value inside the range` [PhotoFinish](https://github.com/superkookai/PhotoFinish)
 
+- **KanaQuest** HWS+ Japanese Word Game, `Algorithm`,`.transition(.push(from: .trailing)) come with .id(currentPosition)`,`Spacer().frame(maxHeight: 40)`,`Grid and GridRow`,`.contentTransition(.numericText())`,`.font(.title.monospacedDigit())` [KanaQuest](https://github.com/superkookai/KanaQuest)
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
