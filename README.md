@@ -187,7 +187,7 @@
 - **KanaQuest** HWS+ Japanese Word Game, `Algorithm`,`.transition(.push(from: .trailing)) come with .id(currentPosition)`,`Spacer().frame(maxHeight: 40)`,`Grid and GridRow`,`.contentTransition(.numericText())`,`.font(.title.monospacedDigit())` [KanaQuest](https://github.com/superkookai/KanaQuest)
 
 - **UnwrapLive2024** VisionOS
-1. **WildGuard** [WildGuard](https://github.com/superkookai/wildguard) `VisionOS on GlassEffect`,`#if os()`,`frame`,`fixedSize`,`containerRelativeFrame`,`buttonBorderShape`,`Button v onTapGesture in VisionOS is very different`,`WindowGroup(for:)`,`defaultSize`
+1. **WildGuard** [WildGuard](https://github.com/superkookai/wildguard) Turn iPad app to VisionOS/macOS => `VisionOS on GlassEffect`,`#if os()`,`frame`,`fixedSize`,`containerRelativeFrame`,`buttonBorderShape`,`Button v onTapGesture in VisionOS is very different`,`WindowGroup(for:)`,`defaultSize`
 
 # Python FastAPI and AI
 
