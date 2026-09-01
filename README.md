@@ -187,7 +187,7 @@
 - **KanaQuest** HWS+ Japanese Word Game, `Algorithm`,`.transition(.push(from: .trailing)) come with .id(currentPosition)`,`Spacer().frame(maxHeight: 40)`,`Grid and GridRow`,`.contentTransition(.numericText())`,`.font(.title.monospacedDigit())` [KanaQuest](https://github.com/superkookai/KanaQuest)
 
 - **UnwrapLive2024** VisionOS
-1. **WildGuard** [WildGuard](https://github.com/superkookai/wildguard) Turn iPad app to VisionOS/macOS => `VisionOS on GlassEffect`,`#if os()`,`frame`,`fixedSize`,`containerRelativeFrame`,`buttonBorderShape`,`Button v onTapGesture in VisionOS is very different`,`WindowGroup(for:)`,`defaultSize`,`@Environment(\.openWindow) var openWindow`,`@Environment(\.openURL) var openURL`,`ToolbarItemGroup(placement: .bottomOrnament)`,`.ornament(attachmentAnchor: .scene(.top))`
+1. **WildGuard** [WildGuard](https://github.com/superkookai/wildguard) Turn iPad app to VisionOS/macOS => `VisionOS on GlassEffect`,`#if os()`,`frame`,`fixedSize`,`containerRelativeFrame`,`buttonBorderShape`,`Button v onTapGesture in VisionOS is very different`,`WindowGroup(for:)`,`defaultSize`,`@Environment(\.openWindow) var openWindow`,`@Environment(\.openURL) var openURL`,`ToolbarItemGroup(placement: .bottomOrnament)`,`.ornament(attachmentAnchor: .scene(.top))`, 3D model with `RealityView`,`.defaultSize(width: 1, height: 1, depth: 0.5, in: .meters)`,`.windowStyle(.volumetric)`
 
 # Python FastAPI and AI
 
