@@ -188,6 +188,7 @@
 
 - **UnwrapLive2024** VisionOS
 1. **WildGuard** [WildGuard](https://github.com/superkookai/wildguard) Turn iPad app to VisionOS/macOS => `VisionOS on GlassEffect`,`#if os()`,`frame`,`fixedSize`,`containerRelativeFrame`,`buttonBorderShape`,`Button v onTapGesture in VisionOS is very different`,`WindowGroup(for:)`,`defaultSize`,`@Environment(\.openWindow) var openWindow`,`@Environment(\.openURL) var openURL`,`ToolbarItemGroup(placement: .bottomOrnament)`,`.ornament(attachmentAnchor: .scene(.top))`, 3D model with `RealityView`,`.defaultSize(width: 1, height: 1, depth: 0.5, in: .meters)`,`.windowStyle(.volumetric)`, Interacting with 3D model using,`rotation3DEffect`,`gesture`,`VideoPlayerComponent with AVKit`, make video be material using `VideoMaterial`,using SwiftUI view with `attachments closure`,make RealityView update with `update closure`,`ImmersiveSpace`,`@Environment(\.openImmersiveSpace) var openImmersiveSpace`,`@Environment(\.dismissImmersiveSpace) var dismissImmersiveSpace`
+2. **SandBox** [Sandbox](https://github.com/superkookai/Sandbox) - Using Reality Composer Pro with SwiftUI VisionOS project
 
 # Python FastAPI and AI
 
