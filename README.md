@@ -190,6 +190,10 @@
 1. **WildGuard** [WildGuard](https://github.com/superkookai/wildguard) Turn iPad app to VisionOS/macOS => `VisionOS on GlassEffect`,`#if os()`,`frame`,`fixedSize`,`containerRelativeFrame`,`buttonBorderShape`,`Button v onTapGesture in VisionOS is very different`,`WindowGroup(for:)`,`defaultSize`,`@Environment(\.openWindow) var openWindow`,`@Environment(\.openURL) var openURL`,`ToolbarItemGroup(placement: .bottomOrnament)`,`.ornament(attachmentAnchor: .scene(.top))`, 3D model with `RealityView`,`.defaultSize(width: 1, height: 1, depth: 0.5, in: .meters)`,`.windowStyle(.volumetric)`, Interacting with 3D model using,`rotation3DEffect`,`gesture`,`VideoPlayerComponent with AVKit`, make video be material using `VideoMaterial`,using SwiftUI view with `attachments closure`,make RealityView update with `update closure`,`ImmersiveSpace`,`@Environment(\.openImmersiveSpace) var openImmersiveSpace`,`@Environment(\.dismissImmersiveSpace) var dismissImmersiveSpace`
 2. **SandBox** [Sandbox](https://github.com/superkookai/Sandbox) - Using Reality Composer Pro with SwiftUI VisionOS project
 
+- **HWS+Live23**
+1. **PhaseAnimatorAndVisualEffect** [PhaseAnimatorAndVisualEffect](https://github.com/superkookai/PhaseAnimatorAndVisualEffect) => `phaseAnimator`, `phaseAnimator with animation closure`, `phaseAnimator with trigger`, `ToolbarItem => sharedBackgroundVisibility`, `visualEffect => effect with proxy`, `proxy.frame(in:)`, `global means coordinate of that view compare to global (screen)`, `local means coordinate on that view`
+
+
 # Python FastAPI and AI
 
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
