@@ -176,7 +176,7 @@
 
 - **ConcurrencyLessons** HWS+ Level 5 `Concurrency` [ConcurrencyLessons](https://github.com/superkookai/ConcurrencyLessons)
 
-- **URLWatcher** URLWatcher with `AsyncSequence/AsyncIteratorProtocol` (TransactionAPI is FastAPI) [TryTransactionAPICombine](https://github.com/superkookai/TryTransactionAPICombine)
+- **URLWatcher** URLWatcher with `AsyncSequence/AsyncIteratorProtocol` => `Use it to sync data when some place changed, another place also update to the changed`, `Chat App` (TransactionAPI is FastAPI) [TryTransactionAPICombine](https://github.com/superkookai/TryTransactionAPICombine) 
 
 - **ScrollSampler** `scrollTransition modifier` explain and `@Sendable transition closure` cannot capture MainActor-isolated (it is non isolated) in the closure need to do some work around, because @State cannot Sendable to the closure. (See ChatGPT pin) And using `KeyPath` and `func callAsFunction` [ScrollSample](https://github.com/superkookai/ScrollSampler)
 
