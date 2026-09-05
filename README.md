@@ -196,5 +196,7 @@
 
 # Python FastAPI and AI
 
+- **MoneyTransactionsFastAPI** - FastAPI => `auth`, `routers`, `database Sqlalchemy with Sqlite, Postgres, MySQL`, `Encryption`  [MoneyTransactionsFastAPI](https://github.com/superkookai/MoneyTransactionsFastAPI)
 - **GeminiFlashSmart** - Call Gemini API with FastAPI use **FlashSmartX** to be client (iOS) [GeminiFlashSmart](https://github.com/superkookai/GeminiFlashSmart)
+  
 
